@@ -6,6 +6,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MyMathTest {
     private MyMath math;
+
+
+
     @Test
     void testSum3Array(){
         //Absence of failure == Success
